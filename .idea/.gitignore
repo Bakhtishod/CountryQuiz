@@ -1,8 +1,15 @@
-# Default ignored files
+# Ignore Python virtual environment
+venv/
+.env/
+
+# Ignore IntelliJ IDEA project files
+/.idea/
 /shelf/
 /workspace.xml
-# Editor-based HTTP Client requests
+
+# Ignore Editor-based HTTP Client requests
 /httpRequests/
-# Datasource local storage ignored files
+
+# Ignore Datasource local storage files
 /dataSources/
 /dataSources.local.xml
